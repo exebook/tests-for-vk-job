@@ -31,4 +31,5 @@ void dic_delete(struct dictionary* dic);
 int dic_add(struct dictionary* dic, void *key, int keyn);
 int dic_find(struct dictionary* dic, void *key, int keyn);
 void dic_forEach(struct dictionary* dic, enumFunc f, void *user);
+
 #endif
