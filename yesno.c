@@ -40,6 +40,7 @@ struct context {
 		This is the hash table based dictionary.
 	*/
 	struct dictionary *dict;
+
 	/*
 		detect if stdin is a terminal or a pipe.
 	*/
