@@ -15,5 +15,7 @@ They aksed for these tests:
 
 -
 
-I created `bsearch.c` empirically, and then `yesno.c` utilizing my own [hash table implementation][hash]
+I created `bsearch.c` empirically, and then `yesno.c` utilizing my own [hash table implementation][hash] which I ported from [my C++ hash table][cpp] just for this test.
+
 [hash]: https://github.com/exebook/hashdict.c
+[cpp]: https://github.com/exebook/hashdic
